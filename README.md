@@ -1,9 +1,9 @@
-# MIA-Task
+# MIA-Task3
 #this task was made by tinkercad 
 
 #the links of the task
 
-##problem1:https://www.tinkercad.com/things/dP9BYL5X8HD-copy-of-cool-gogo/editel?sharecode=j9K23eBCoRMhQAYoNmvQhGZbL8921e4R4sZpGXLdrss
+problem1:https://www.tinkercad.com/things/dP9BYL5X8HD-copy-of-cool-gogo/editel?sharecode=j9K23eBCoRMhQAYoNmvQhGZbL8921e4R4sZpGXLdrss
 
 problem2:https://www.tinkercad.com/things/h9pcR5O7ALm-terrific-borwo-albar?sharecode=QnT4uU1nVtb68rumaXzFGn5xjfE-4ksi642diYXwits
 
