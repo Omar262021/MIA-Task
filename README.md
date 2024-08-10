@@ -30,6 +30,11 @@
 
 6-Branch "Task6": 
       It contains zip files that contain altium design
+
+7-Branch "Task7":
+      i can't install linux beacuse my comuter acn;t opreta it
+      the branch contain a pdf file with the massege error 
+
       
 
 
